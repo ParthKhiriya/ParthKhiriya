@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Deployd](https://github.com/ParthKhiriya/Deployd)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA and NextJS**
 
 - 💬 Ask me about **React, JavaScript, C++**
 
