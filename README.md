@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA and NextJS**
 
-- 💬 Ask me about **React, JavaScript, C++**
+- 💬 Ask me about **React, JavaScript, C++, Python**
 
 - 📫 How to reach me **parthkhiriya2005@gmail.com**
 
