@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **parthkhiriya2005@gmail.com**
 
-- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/14hqg_18krjaajLjgJXt_UHvKEseR-dH4/view?usp=drive_link)
+- 📄 Know about my experiences - [Resume]([https://drive.google.com/file/d/14hqg_18krjaajLjgJXt_UHvKEseR-dH4/view?usp=drive_link](https://drive.google.com/file/d/1tWiBOA21498n4x8JrDz36oU84qRSy-NB/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
