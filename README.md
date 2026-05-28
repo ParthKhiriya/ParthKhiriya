@@ -27,7 +27,7 @@
 | :--- | :--- | :--- |
 | **[AudioCNN](https://github.com/ParthKhiriya/audio-cnn)** | PyTorch, Next.js, FastAPI, Torchaudio | Custom ResNet-based CNN achieving 84.25% accuracy on ESC-50 for deep audio classification, deployed with interactive heatmap visualizations.  |
 | **[QuickChat](https://github.com/ParthKhiriya/QuickChat)** | MERN Stack, Socket.io, TailwindCSS, JWT | A real-time, event-driven messaging app with secure JWT auth, Cloudinary media handling, and live user status tracking.  |
-| **Meta-Learning Demodulator** | Python, MAML, ResNet | Model-Agnostic Meta-Learning framework driving Symbol Error Rate (SER) down to $10^{-1}$ with 4D feature representations.  |
+| [**Meta-Learning Demodulator**](https://github.com/ParthKhiriya/demodulator-meta-learning) | Python, MAML, ResNet | Model-Agnostic Meta-Learning framework driving Symbol Error Rate (SER) down to $10^{-1}$ with 4D feature representations.  |
 | **[LaneNet](https://github.com/ParthKhiriya/LaneNet)** | PyTorch, CLRNet, OpenCV | Enhanced curved lane detection model resulting in a +2.8% F1 improvement on the CULane benchmark (100K+ images).  |
 
 ---
