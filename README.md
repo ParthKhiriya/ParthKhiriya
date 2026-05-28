@@ -1,28 +1,109 @@
-<h1 align="center">Hi 👋, I'm Parth Khiriya</h1>
-<h3 align="center">Electrical Engineering Student at IIT Jodhpur</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" >
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Parth%20Khiriya!%20%F0%9F%91%8B&fontSize=40&fontAlignY=38&animation=twinkling&desc=Electrical%20Engineering%20@%20IIT%20Jodhpur&descAlignY=55&descAlign=50" alt="Header Banner" />
 
-- 🔭 I’m currently working on [AudioCNN](https://github.com/ParthKhiriya/audio-cnn)
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Machine+Learning+%26+Deep+Learning;B.Tech+Electrical+Engineering;Building+Scalable+Solutions" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **DSA and DL**
+---
 
-- 💬 Ask me about **React, JavaScript, C++, Python**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **parthkhiriya2005@gmail.com**
+* 🎓 I'm currently pursuing my **B.Tech in Electrical Engineering** at the **Indian Institute of Technology (IIT), Jodhpur** (CGPA: 8.28).
+* 🧠 Passionate about bridging the gap between **Machine Learning** and **Full Stack Development**.
+* 🚀 I specialize in building real-time applications and integrating Deep Learning models into seamless web interfaces.
+* 🌱 Currently expanding my expertise in **DSA, Meta-Learning (MAML), and Advanced Data Structures**.
+* 📫 Reach out to me at: **[parthkhiriya2005@gmail.com](mailto:parthkhiriya2005@gmail.com)**
 
-- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1tWiBOA21498n4x8JrDz36oU84qRSy-NB/view?usp=drive_link)
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/parth-khiriya-a78ba828a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/parth-khiriya-a78ba828a" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Parth_Khiriya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Parth_Khiriya/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🏆 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthkhiriya&show_icons=true&locale=en&layout=compact" alt="parthkhiriya" /></p>
+| 🌟 Project Name | 🛠 Tech Stack | 📖 Description |
+| :--- | :--- | :--- |
+| **[AudioCNN](https://github.com/ParthKhiriya/audio-cnn)** | PyTorch, Next.js, FastAPI, Torchaudio | Custom ResNet-based CNN achieving 84.25% accuracy on ESC-50 for deep audio classification, deployed with interactive heatmap visualizations.  |
+| **[QuickChat](https://github.com/ParthKhiriya/QuickChat)** | MERN Stack, Socket.io, TailwindCSS, JWT | A real-time, event-driven messaging app with secure JWT auth, Cloudinary media handling, and live user status tracking.  |
+| **Meta-Learning Demodulator** | Python, MAML, ResNet | Model-Agnostic Meta-Learning framework driving Symbol Error Rate (SER) down to $10^{-1}$ with 4D feature representations.  |
+| **[LaneNet](https://github.com/ParthKhiriya/LaneNet)** | PyTorch, CLRNet, OpenCV | Enhanced curved lane detection model resulting in a +2.8% F1 improvement on the CULane benchmark (100K+ images).  |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthkhiriya&show_icons=true&locale=en" alt="parthkhiriya" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthKhiriya&" alt="parthkhiriya" /></p>
+### 🛠️ Technical Arsenal
+
+**Languages & Core** <p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p> 
+
+**Machine Learning & Data Science** <p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p> 
+
+**Full Stack Development** <p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+</p> 
+
+---
+
+### 📜 Education & Certifications
+
+* 🎓 **Machine Learning Specialization** — *DeepLearning.AI / Coursera* 
+* 🎓 **Full Stack Web Development Certification** — *Udemy* 
+* 📚 **Key Coursework:** Pattern Recognition & Machine Learning, Data Structures and Algorithms, Computer Architecture, Probability & Statistics.
+
+---
+
+### 📈 GitHub Analytics & Activity
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthkhiriya&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+
+  <br/><br/>
+
+  <a href="https://github.com/parthkhiriya">
+    <img src="https://github-readme-stats.vercel.app/api?username=parthkhiriya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/parthkhiriya">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthKhiriya&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  </a>
+  
+</div>
+
+---
+
+### 🌐 Let's Connect!
+
+<div align="center">
+  <a href="mailto:parthkhiriya2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a> 
+  <a href="https://www.linkedin.com/in/parth-khiriya-a78ba828a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> 
+  <a href="https://github.com/ParthKhiriya">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=parthkhiriya&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
+</div>
