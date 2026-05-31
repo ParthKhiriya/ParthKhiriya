@@ -79,10 +79,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthkhiriya&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 
   <br/><br/>
-
-  <a href="https://github.com/parthkhiriya">
-    <img src="https://github-readme-stats.vercel.app/api?username=parthkhiriya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  </a>
+  
   <a href="https://github.com/parthkhiriya">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthKhiriya&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
   </a>
