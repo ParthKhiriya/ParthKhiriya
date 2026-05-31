@@ -64,7 +64,7 @@
 
 ---
 
-### 📜 Education & Certifications
+### 📜 Certifications
 
 * 🎓 **Machine Learning Specialization** — *DeepLearning.AI / Coursera* 
 * 🎓 **Full Stack Web Development Certification** — *Udemy* 
