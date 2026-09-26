@@ -12,9 +12,9 @@
 ### 👨‍💻 About Me
 
 * 🎓 I'm currently pursuing my **B.Tech in Electrical Engineering** at the **Indian Institute of Technology (IIT), Jodhpur** (CGPA: 8.28).
-* 🧠 Passionate about bridging the gap between **Machine Learning** and **Full Stack Development**.
+* 🧠 Passionate about bridging the gap between **AI** and **Full Stack Development**.
 * 🚀 I specialize in building real-time applications and integrating Deep Learning models into seamless web interfaces.
-* 🌱 Currently expanding my expertise in **DSA, Meta-Learning (MAML), and Advanced Data Structures**.
+* 🌱 Currently expanding my expertise in **Agentic AI, Meta-Learning (MAML), and Advanced Data Structures**.
 * 📫 Reach out to me at: **[parthkhiriya2005@gmail.com](mailto:parthkhiriya2005@gmail.com)**
 
 <br />
