@@ -162,11 +162,11 @@ Pattern Recognition and Machine Learning, Data Structures and Algorithms, Comput
 
 ---
 
-## 📈 Contribution Activity
+## 📈 GitHub Contribution Stats
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ParthKhiriya/ParthKhiriya/main/assets/contribution-activity.svg?v=1" width="100%" alt="GitHub contribution activity heatmap" />
+  <img src="https://raw.githubusercontent.com/ParthKhiriya/ParthKhiriya/main/assets/github-stats.svg?v=3" width="100%" alt="GitHub contribution statistics including total contributions, current streak, longest streak, commits, pull requests and issues" />
 
 </div>
 
