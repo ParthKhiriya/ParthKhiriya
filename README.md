@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Parth%20Khiriya&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Engineer%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Parth%20Khiriya&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Engineer%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%" />
 
   <h3>Electrical Engineering @ IIT Jodhpur</h3>
 
