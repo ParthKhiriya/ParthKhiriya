@@ -4,7 +4,7 @@ import urllib.request
 from datetime import datetime, timezone
 from html import escape
 
-USERNAME = "ParthKhiriya"
+USERNAME = "ParthKhiriya"  # Profile owner
 TOKEN = os.environ["GITHUB_TOKEN"]
 API = "https://api.github.com"
 
