@@ -1,106 +1,203 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Parth%20Khiriya!%20%F0%9F%91%8B&fontSize=40&fontAlignY=38&animation=twinkling&desc=Electrical%20Engineering%20@%20IIT%20Jodhpur&descAlignY=55&descAlign=50" alt="Header Banner" />
 
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Parth%20Khiriya&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Engineer%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%" />
+
+  <h3>Electrical Engineering @ IIT Jodhpur</h3>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Machine+Learning+%26+Deep+Learning;B.Tech+Electrical+Engineering;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Exploring+Agentic+AI+%26+Machine+Learning;Developing+Scalable+Backend+Systems;Turning+Ideas+into+Working+Products" alt="Typing SVG" />
   </a>
+
+  <p>
+    <a href="mailto:parthkhiriya2005@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/parth-khiriya-a78ba828a">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/ParthKhiriya">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </a>
+  </p>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-* 🎓 I'm currently pursuing my **B.Tech in Electrical Engineering** at the **Indian Institute of Technology (IIT), Jodhpur** (CGPA: 8.28).
-* 🧠 Passionate about bridging the gap between **AI** and **Full Stack Development**.
-* 🚀 I specialize in building real-time applications and integrating Deep Learning models into seamless web interfaces.
-* 🌱 Currently expanding my expertise in **Agentic AI, Meta-Learning (MAML), and Advanced Data Structures**.
-* 📫 Reach out to me at: **[parthkhiriya2005@gmail.com](mailto:parthkhiriya2005@gmail.com)**
+Hi! I'm **Parth Khiriya**, an Electrical Engineering undergraduate at **Indian Institute of Technology (IIT) Jodhpur**, with a strong interest in building intelligent, scalable, and technically challenging systems.
 
-<br />
+- 🎓 B.Tech in Electrical Engineering | IIT Jodhpur | CGPA: **8.28**
+- 🤖 Interested in **Agentic AI, Machine Learning, and Intelligent Systems**.
+- 💻 Experienced in building full-stack applications and distributed backend systems.
+- 🧠 Exploring the intersection of AI research, software engineering, and real-world applications.
+- 🚀 I enjoy taking projects beyond basic implementations by focusing on architecture, problem-solving, and engineering depth.
 
----
-
-### 🏆 Featured Projects
-
-| 🌟 Project Name | 🛠 Tech Stack | 📖 Description |
-| :--- | :--- | :--- |
-| **[AudioCNN](https://github.com/ParthKhiriya/audio-cnn)** | PyTorch, Next.js, FastAPI, Torchaudio | Custom ResNet-based CNN achieving 84.25% accuracy on ESC-50 for deep audio classification, deployed with interactive heatmap visualizations.  |
-| **[QuickChat](https://github.com/ParthKhiriya/QuickChat)** | MERN Stack, Socket.io, TailwindCSS, JWT | A real-time, event-driven messaging app with secure JWT auth, Cloudinary media handling, and live user status tracking.  |
-| [**Meta-Learning Demodulator**](https://github.com/ParthKhiriya/demodulator-meta-learning) | Python, MAML, ResNet | Model-Agnostic Meta-Learning framework driving Symbol Error Rate (SER) down to $10^{-1}$ with 4D feature representations.  |
-| **[LaneNet](https://github.com/ParthKhiriya/LaneNet)** | PyTorch, CLRNet, OpenCV | Enhanced curved lane detection model resulting in a +2.8% F1 improvement on the CULane benchmark (100K+ images).  |
+**Currently exploring:** Agentic AI, autonomous systems, multimodal learning, and advanced backend architecture.
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🚀 Featured Projects
 
-**Languages & Core** <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Tech Stack</th>
+    <th>Overview</th>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/ParthKhiriya/NeuroClaw"><b>🧠 NeuroClaw</b></a>
+    </td>
+    <td>Python, Agentic AI, LLMs</td>
+    <td>
+      An autonomous AI agent system focused on intelligent task execution, tool interaction, and adaptive workflows.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/ParthKhiriya/haptics"><b>🖐️ Haptics</b></a>
+    </td>
+    <td>Python, PyTorch, EnCodec, Signal Processing</td>
+    <td>
+      Research-oriented audio-to-tactile synthesis system that learns to generate vibrotactile signals from surface-contact audio using acoustic-guided neural architectures and physics-informed signal processing.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/ParthKhiriya/BiteShip"><b>🍔 BiteShip</b></a>
+    </td>
+    <td>TypeScript, Node.js, Express, MongoDB, RabbitMQ, Socket.IO</td>
+    <td>
+      Distributed food delivery platform built with microservices, asynchronous event-driven communication, geospatial rider discovery, and real-time order tracking.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/ParthKhiriya/demodulator-meta-learning"><b>📡 Meta-Learning Demodulator</b></a>
+    </td>
+    <td>Python, PyTorch, MAML, ResNet</td>
+    <td>
+      Model-Agnostic Meta-Learning framework for few-pilot wireless demodulation, featuring a physics-informed 4D ResNet that reduces SER from 13.8% to 10.5% at P=16 in the evaluated scenario.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-**Machine Learning & Data Science** <p align="left">
+### AI / Machine Learning
+
+<p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p> 
+</p>
 
-**Full Stack Development** <p align="left">
+### Full-Stack Development
+
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### Databases, Infrastructure & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-</p> 
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-### 📜 Certifications
+## 📚 Certifications & Coursework
 
-* 🎓 **Machine Learning Specialization** — *DeepLearning.AI / Coursera* 
-* 🎓 **Full Stack Web Development Certification** — *Udemy* 
-* 📚 **Key Coursework:** Pattern Recognition & Machine Learning, Data Structures and Algorithms, Computer Architecture, Probability & Statistics.
+- 🎓 **Machine Learning Specialization** — DeepLearning.AI / Coursera
+- 🎓 **Full Stack Web Development Certification** — Udemy
+
+**Relevant Coursework:**
+Pattern Recognition and Machine Learning, Data Structures and Algorithms, Computer Architecture, Probability and Statistics.
 
 ---
 
-### 📈 GitHub Analytics & Activity
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthkhiriya&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ParthKhiriya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKhiriya&layout=compact&theme=tokyonight&hide_border=true" />
 
   <br/><br/>
-  
-  <a href="https://github.com/parthkhiriya">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthKhiriya&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-  </a>
-  
+
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthKhiriya&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-### 🌐 Let's Connect!
+## 📈 Contribution Activity
 
 <div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthKhiriya&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
   <a href="mailto:parthkhiriya2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
   <a href="https://www.linkedin.com/in/parth-khiriya-a78ba828a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
   <a href="https://github.com/ParthKhiriya">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=parthkhiriya&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
+
+  <img src="https://komarev.com/ghpvc/?username=ParthKhiriya&label=Profile%20Views&color=36BCF7&style=flat-square" />
+
+  <br/><br/>
+
+  **Thanks for visiting! Let's build something interesting. 🚀**
+
 </div>
