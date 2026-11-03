@@ -166,7 +166,7 @@ Pattern Recognition and Machine Learning, Data Structures and Algorithms, Comput
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthKhiriya&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/ParthKhiriya/ParthKhiriya/main/assets/contribution-activity.svg?v=1" width="100%" alt="GitHub contribution activity heatmap" />
 
 </div>
 
