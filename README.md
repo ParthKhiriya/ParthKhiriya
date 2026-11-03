@@ -154,7 +154,7 @@ Pattern Recognition and Machine Learning, Data Structures and Algorithms, Comput
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ParthKhiriya/ParthKhiriya/main/assets/github-stats.svg" alt="GitHub statistics" width="100%" />
+  <img src="https://raw.githubusercontent.com/ParthKhiriya/ParthKhiriya/main/assets/github-stats.svg?v=2" alt="GitHub statistics" width="100%" />
 
 </div>
 
