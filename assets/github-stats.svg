@@ -1,29 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="248" viewBox="0 0 780 248">
-  <rect width="780" height="248" rx="16" fill="#0d1117"/>
-  
-      <rect x="24" y="24" width="232" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
-      <text x="40" y="55" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" font-weight="600" letter-spacing=".5">CONTRIBUTIONS · LAST YEAR</text>
-      <text x="40" y="90" fill="#58a6ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">787</text>
-    
-      <rect x="276" y="24" width="232" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
-      <text x="292" y="55" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" font-weight="600" letter-spacing=".5">CURRENT STREAK · DAYS</text>
-      <text x="292" y="90" fill="#58a6ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">4</text>
-    
-      <rect x="528" y="24" width="232" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
-      <text x="544" y="55" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" font-weight="600" letter-spacing=".5">LONGEST STREAK · DAYS</text>
-      <text x="544" y="90" fill="#58a6ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">66</text>
-    
-      <rect x="24" y="136" width="232" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
-      <text x="40" y="167" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" font-weight="600" letter-spacing=".5">COMMITS · THIS YEAR</text>
-      <text x="40" y="202" fill="#58a6ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">769</text>
-    
-      <rect x="276" y="136" width="232" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
-      <text x="292" y="167" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" font-weight="600" letter-spacing=".5">PULL REQUESTS · THIS YEAR</text>
-      <text x="292" y="202" fill="#58a6ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">0</text>
-    
-      <rect x="528" y="136" width="232" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
-      <text x="544" y="167" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" font-weight="600" letter-spacing=".5">ISSUES · THIS YEAR</text>
-      <text x="544" y="202" fill="#58a6ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">0</text>
-    
-  <text x="756" y="238" text-anchor="end" fill="#6e7681" font-family="Arial,sans-serif" font-size="9">Updated 2026-11-03 12:46 UTC</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="290" viewBox="0 0 780 290">
+  <rect width="780" height="290" rx="16" fill="#0d1117"/>
+  <text x="24" y="28" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="12" font-weight="700">PROFILE STATS</text>
+          <rect x="24" y="40" width="232" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
+          <text x="39" y="71" fill="#8b949e" font-family="Arial,sans-serif" font-size="9.5" font-weight="600" letter-spacing=".35">PUBLIC REPOSITORIES</text>
+          <text x="39" y="106" fill="#58a6ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">27</text>
+        
+          <rect x="276" y="40" width="232" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
+          <text x="291" y="71" fill="#8b949e" font-family="Arial,sans-serif" font-size="9.5" font-weight="600" letter-spacing=".35">FORKS EARNED</text>
+          <text x="291" y="106" fill="#58a6ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">1</text>
+        
+          <rect x="528" y="40" width="232" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
+          <text x="543" y="71" fill="#8b949e" font-family="Arial,sans-serif" font-size="9.5" font-weight="600" letter-spacing=".35">FOLLOWERS</text>
+          <text x="543" y="106" fill="#58a6ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">1</text>
+        
+  <text x="24" y="162" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="12" font-weight="700">CONTRIBUTION STATS</text>
+          <rect x="24" y="174" width="232" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
+          <text x="39" y="205" fill="#8b949e" font-family="Arial,sans-serif" font-size="9.5" font-weight="600" letter-spacing=".35">TOTAL CONTRIBUTIONS · ALL TIME</text>
+          <text x="39" y="240" fill="#58a6ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">973</text>
+        
+          <rect x="276" y="174" width="232" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
+          <text x="291" y="205" fill="#8b949e" font-family="Arial,sans-serif" font-size="9.5" font-weight="600" letter-spacing=".35">CURRENT STREAK · DAYS</text>
+          <text x="291" y="240" fill="#58a6ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">4</text>
+        
+          <rect x="528" y="174" width="232" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
+          <text x="543" y="205" fill="#8b949e" font-family="Arial,sans-serif" font-size="9.5" font-weight="600" letter-spacing=".35">LONGEST STREAK · ALL TIME · DAYS</text>
+          <text x="543" y="240" fill="#58a6ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">66</text>
+        
+  <text x="756" y="278" text-anchor="end" fill="#6e7681" font-family="Arial,sans-serif" font-size="9">Updated 2026-11-03 12:49 UTC</text>
 </svg>
